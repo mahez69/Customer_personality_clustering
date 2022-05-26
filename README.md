@@ -44,6 +44,7 @@ I will perform the exploratory data analysis with the help of customer segmentat
 * Machine Learning Model (K-Means)
 * Cluster Interpretation
 * Customer Distribution
+* Relationship: Income VS Spendings
 
 ## Conclusions
 * Most of the customers are university graduates.
